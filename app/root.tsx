@@ -15,7 +15,7 @@ export function links() {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "안녕하세요!",
+  title: "안녕하세요!?",
   viewport: "width=device-width,initial-scale=1",
 });
 
